@@ -6,7 +6,7 @@ Convert objects/arrays into a CSV string or write them into a file.
 
 ## Prerequisite
 
-* Node version 4 or above
+* Node version 6 or above
 
 ## Usage
 
